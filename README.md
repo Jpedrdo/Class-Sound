@@ -3,11 +3,11 @@
 <p>Class Sound is a console application developed in C# for study purposes. The application allows users to interact with a menu of options to register bands, albums, rate bands and albums, display all registered bands, and details of a specific band.</p>
 
 <p align="center">
-  <img src="assets/evaluateSection.png" width="30%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="assets/mainSection.png" width="30%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="assets/detailsSection.png" width="30%">
+  <img src="assets/evaluateSection.png" width="32.7%">
+  &nbsp;
+  <img src="assets/mainSection.png" width="32.7%">
+  &nbsp;
+  <img src="assets/detailsSection.png" width="32.7%">
 </p>
 
 <h2>Technologies and Best Practices</h2>
@@ -17,6 +17,8 @@
     <li><strong>Singleton Pattern</strong>: The Singleton pattern was used to ensure that only one instance of MenuShowOptions exists throughout the application.</li>
     <li><strong>Async/Await</strong>: The application makes extensive use of asynchronous operations to ensure that the user interface remains responsive, even during long-running operations.</li>
     <li><strong>Exception Handling</strong>: The application includes robust exception handling to ensure that errors are properly caught and handled.</li>
+    <li><strong>Generic Methods</strong>: The application uses generic methods, like `DisplayCurrentList&lt;T&gt;`, to provide flexibility and reusability. This method can handle different types of lists and display them accordingly.</li>
+    <li><strong>Type Checking and Conversion</strong>: The application uses type checking and conversion to handle different types of objects and perform appropriate actions based on their types.</li>
 </ul>
 
 <h2>Integration with ChatGPT</h2>
