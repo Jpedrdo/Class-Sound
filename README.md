@@ -3,11 +3,11 @@
 <p>Class Sound is a console application developed in C# for study purposes. The application allows users to interact with a menu of options to register bands, albums, rate bands and albums, display all registered bands, and details of a specific band.</p>
 
 <p align="center">
-  <img src="assets/evaluateSection.png" width="32.7%">
+  <img src="assets/evaluateSection.png" width="32%">
   &nbsp;
-  <img src="assets/mainSection.png" width="32.7%">
+  <img src="assets/mainSection.png" width="32%">
   &nbsp;
-  <img src="assets/detailsSection.png" width="32.7%">
+  <img src="assets/detailsSection.png" width="32%">
 </p>
 
 <h2>Technologies and Best Practices</h2>
